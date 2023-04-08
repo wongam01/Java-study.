@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class week2_wongam {
+public class week2_WONGAM {
     public static void main(String[] args) {
         // 윤년은 연도가 4의 배수이면서, 100의 배수가 아닐 때 또는 400의 배수일 때이다.
         // 예를 들어, 2012년은 4의 배수이면서 100의 배수가 아니라서 윤년이다.
@@ -17,8 +17,5 @@ public class week2_wongam {
         else {
             System.out.println(0);
         }
-
-
-
     }
 }
